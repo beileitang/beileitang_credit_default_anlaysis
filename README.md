@@ -1,6 +1,6 @@
 # Credit default analysising by using Support Vector Machine and Logistic Regression
 
--The goal of this project is to build a loan default forecasting model by using logistic regression and Support Vector Machines (SVM) with RBF kernel for Peer to Peer Lending (P2P). By using ROC curve and F score to compare the accuracy of models, thus the best model can be used to evaluate whether the loan should be approved or reject. 
+- The goal of this project is to build a loan default forecasting model by using logistic regression and Support Vector Machines (SVM) with RBF kernel for Peer to Peer Lending (P2P). By using ROC curve and F score to compare the accuracy of models, thus the best model can be used to evaluate whether the loan should be approved or reject. 
 
 ### Result:
 * From logistic regression, we found there is a positive affect on the probability of loan default, which is not consistent with our hypothesis as well as the practice. 

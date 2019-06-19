@@ -12,3 +12,5 @@
 
 ## Authors
 Beilei Tang
+
+Github link: [credit default analysis](https://github.com/beileitang/beileitang_credit_default_anlaysis/tree/gh-pages)
